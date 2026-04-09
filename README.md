@@ -20,7 +20,10 @@ I build data-driven tools for prediction markets & Web3.
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
----
+## Featured Projects
+- **Polymarket Telegram Reporter** — real-time Telegram reporting tool for prediction market data
+- **Web3 Oracle Pipeline** — oracle-like service for fetching, processing, and delivering market data
+- **Automation Toolkit** — scripts/services for analytics and monitoring
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr411-poly&show_icons=true&theme=tokyonight)
@@ -36,5 +39,5 @@ I build data-driven tools for prediction markets & Web3.
 ---
 
 ## 📫 Contact
-- Telegram: (outfl0w)
-- Email: (goyanalytics@protonmail.com)
+- Telegram:outfl0w
+- Email:goyanalytics@protonmail.com
